@@ -28,7 +28,7 @@ python --version
 
 ## Create and Manage Environments
 
-Conda allows you to create isolated Python environments for different projects. You can create a new Conda environment and specify the Python version you want by running the following command (replace "myenv" with the desired environment name and "x.x" with the desired Python version). It is recommended to [Use a Python Environment Management Tool for Isolating Projects](/doc/quick_start/python_environment_management.md):
+Conda allows you to create isolated Python environments for different projects. You can create a new Conda environment and specify the Python version you want by running the following command (replace "myenv" with the desired environment name and "x.x" with the desired Python version). It is recommended to [Use a Python Environment Management Tool for Isolating Projects](/docs/quick_start/python_environment_management.md):
 
 ```
 conda create --name myenv python=x.x
@@ -46,7 +46,7 @@ Deactivate the environment:
 conda deactivate
 ```
 
-Let's take a specific example to illustrate the process: [Installing Python and Creating Environments with Conda in Terminal-An Example](/doc/quick_start/example_of_install_python_with_conda.md).
+Let's take a specific example to illustrate the process: [Installing Python and Creating Environments with Conda in Terminal-An Example](/docs/quick_start/example_of_install_python_with_conda.md).
 
 ## Install Packages
 
