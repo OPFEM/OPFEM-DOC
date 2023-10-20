@@ -10,4 +10,4 @@ Before you begin, make sure you have the following prerequisites installed on yo
 
 2. **Conda (Optional)**: Consider installing Conda to create virtual environments and manage dependencies. You can download Miniconda or Anaconda from the [official website](https://docs.conda.io/en/latest/miniconda.html).
 
-The details of the installation and the basic knowledge of Conda is introduced in [Install Anaconda and Python](./quick_start/install_anaconda_and_python.md).
+The details of the installation and the basic knowledge of Conda is introduced in [Install Anaconda and Python](./install_anaconda_and_python.md).
