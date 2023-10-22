@@ -27,7 +27,7 @@ OPFEM relies on several essential third-party packages. To ensure a smooth setup
 For those eager to incorporate PythonOCC-Core into their projects, the author of the library recommends utilizing the [conda-forge](https://conda-forge.org/) channel for package installation. This can be easily achieved with the following shell command:
 
 ```shell
-conda install -c conda-forge pythonocc-core=7.7.2
+conda install -c conda-forge pythonocc-core
 ```
 
 ### [PyQt5](https://www.riverbankcomputing.com/software/pyqt/)
