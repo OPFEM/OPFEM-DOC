@@ -1,4 +1,5 @@
-# Usage
+# Basic usage of OPFEM
+
 
 Please note that this page is still under development.
 
